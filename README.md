@@ -7,13 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Watch Laravel tutorial on youtube
+Watch Laravel tutorial on youtube<br>
 https://www.youtube.com/watch?v=YYu3JPzOdYM
 
-Laravel api Tutorial for Beginners Step by Step
+Laravel api Tutorial for Beginners Step by Step<br>
 https://www.youtube.com/watch?v=rDJ7BebkNso&list=PLYVcyg3AF-zvDDXBLDyn9UJSgAYMWpUS3
 
-Laravel Tutorial for Beginners Step by Step
+Laravel Tutorial for Beginners Step by Step<br>
 https://www.youtube.com/watch?v=rDJ7BebkNso&list=PLYVcyg3AF-zvDDXBLDyn9UJSgAYMWpUS3
 
 ## About Laravel
